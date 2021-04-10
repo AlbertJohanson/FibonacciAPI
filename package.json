@@ -1,0 +1,23 @@
+{
+  "name": "fibonacciapi",
+  "version": "1.0.0",
+  "description": "This a API with a the fibonacci numbers",
+  "main": "app.js",
+  "scripts": {
+    "server": "node App.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbertJohanson/FibonacciAPI.git"
+  },
+  "author": "Albert Johanson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlbertJohanson/FibonacciAPI/issues"
+  },
+  "homepage": "https://github.com/AlbertJohanson/FibonacciAPI#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
